@@ -9,3 +9,11 @@ let newObj = { name: 'Alice' };
 function func1() {
     let str = 'this is a new string';
 }
+
+function func2() {
+    let str2 = 'this is a new string of the second function';
+}
+
+function func3() {
+    let str3 = 'this is a new string of the third function;';
+}
