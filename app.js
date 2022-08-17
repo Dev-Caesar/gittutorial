@@ -17,7 +17,3 @@ function func2() {
 function func3() {
     let str3 = 'this is a new string of the third function;';
 }
-
-function func4() {
-    let str4 = 'this a new strin of the fourth function';
-}
