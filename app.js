@@ -5,6 +5,7 @@ let array = [2, 3, 4, 5, 6];
 let obj = { name: 'John', age: 40 };
 let newObj = { name: 'Alice' };
 
+
 function func1() {
     let str = 'this is a new string';
 }
