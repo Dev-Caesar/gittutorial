@@ -4,7 +4,6 @@ let str = `lets see how this goes`;
 let obj = { name: 'John', age: 40 };
 let newObj = { name: 'Alice' };
 
-
 function func1() {
     let str = 'this is a new string';
 }
