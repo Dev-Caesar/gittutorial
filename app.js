@@ -15,4 +15,5 @@ function func2() {
 
 function func3() {
     let str3 = 'this is a new string of the third function;';
+    str3 = 'this is the newer string';
 }
